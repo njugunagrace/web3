@@ -1,0 +1,167 @@
+
+
+body{
+    background-color: rgb(226, 249, 250);
+}
+.navbar ul,li{
+    list-style: none;
+    display: inline-block;
+    justify-content: left;
+    /* padding:0 6px 8px 4px; */
+    gap: 100px;
+    
+
+}
+.section{
+    display: flex;
+
+}
+#txt{
+    color: rgb(238, 69, 103) ;
+}
+#nav{
+    float: right;
+    
+}
+ 
+
+#text{
+    font-size: 400%;
+}
+.container1{
+
+    /* margin-right: 40%; */
+    padding-left: 10%;
+    padding-right: 20%;
+    
+}
+.contimage{
+
+    padding-top: 20%;
+}
+.contimage1{
+    
+    margin-right: 5%;
+    
+    
+    
+}
+#button{
+    background-color: crimson;
+
+}
+#shoe{
+    width: 80%;
+    height: 80%;
+    background-color: antiquewhite;
+}
+.best{
+    text-align: center;
+}
+.container3{
+    display: flex;
+
+}
+#shoe1{
+    width: 60%;
+    height: 60%;
+    background-color: rgb(248, 219, 181);
+}
+.contshoes{
+
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+#shoe2{
+    width: 80%;
+    height: 80%;
+    background-color: antiquewhite;
+}
+#shoe3{
+    width: 50%;
+    height: 40%;
+    background-color: antiquewhite;
+}
+#shoe4{
+    width: 65%;
+    height: 65%;
+    background-color: antiquewhite;
+}
+
+#shoe5{
+   /* width: 80%; 
+   height: 80%; */
+} 
+.container4{
+    display: flex;
+    gap: 70px;
+    margin-left: 5%;
+}  
+.container4b{
+    display: flex;
+    gap: 100px;
+    margin-left: 5%;
+}                 
+.container5{
+    display: flex;
+    margin-left: 5%;
+}
+.special{
+    margin-left: 5%;
+}
+.cont{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+#button3{
+    text-align: center;
+    background-color: crimson;
+}
+.test{
+    
+    padding-right: 30%;
+    text-align: center;
+}
+.imgP{
+    /* margin-left: 20%; */
+    padding-left: 5%;
+    /* border: solid; */
+}
+#imgperson{
+    border-radius: 50%;
+    width: 70%;
+    height: 50%;
+}
+.testimonial{
+    /* padding-right: 15%; */
+    
+    
+
+}
+#about{
+    font-size: 300%;
+}
+.container6{
+    background-color:palevioletred;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    margin-top: 10%;
+}
+.container7{
+    display: flex;
+    background-color: rgb(245, 99, 107);
+    gap: 80px;
+    padding-left: 5%;
+}
+#google{
+    width: 30%;
+    height: 30%;
+}
